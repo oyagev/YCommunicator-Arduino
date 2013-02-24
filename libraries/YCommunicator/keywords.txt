@@ -1,0 +1,9 @@
+YCommSerialReader   KEYWORD1
+begid	KEYWORD2
+read	KEYWORD2
+reset	KEYWORD2
+hasInstructions	KEYWORD2
+shiftInstraction	KEYWORD2
+
+YCommInstruction	KEYWORD1
+
