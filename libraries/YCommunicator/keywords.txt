@@ -1,9 +1,7 @@
-YCommSerialReader   KEYWORD1
-begid	KEYWORD2
+YCommunicator   KEYWORD1
+registerCallback	KEYWORD2
+registerDefaultCallback	KEYWORD2
+write	KEYWORD2
 read	KEYWORD2
-reset	KEYWORD2
-hasInstructions	KEYWORD2
-shiftInstraction	KEYWORD2
-
-YCommInstruction	KEYWORD1
+available	KEYWORD2
 
