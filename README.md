@@ -3,6 +3,8 @@
 This is an Arduino implementation of [YCommunicator](https://github.com/oyagev/YCommunicator) protocol.
 It uses the [YCommunicator-CPP](https://github.com/oyagev/YCommunicator-CPP) implementation and provides examples and needed libraries.
 
+See demo video here: http://www.youtube.com/watch?v=2xO3sKLihYA
+
 ## Preconditions
 
  - To use the library via Bluetooth, you'll have to purchase a bluetooth module for your arduino device. 
