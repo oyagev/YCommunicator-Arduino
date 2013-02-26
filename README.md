@@ -11,7 +11,7 @@ See demo video here: http://www.youtube.com/watch?v=2xO3sKLihYA
  
 
 ## Installation
- - Download the library 
+ 1. Download the library 
  - Copy the content of "libraries" folder to the "libraries" folder of your Arduino installation. 
    Be sure to copy only the subfolders inside "libraries".
  - Restart Arduino software
