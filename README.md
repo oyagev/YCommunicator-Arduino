@@ -18,4 +18,13 @@ See demo video here: http://www.youtube.com/watch?v=2xO3sKLihYA
  - Restart Arduino software
  - You can now start an example from File->Examples->YCommunicator
 
+## Changelog
 
+### Version 0.1
+This is the very first version of this package. 
+ - It supports getting and sending byte-data to/from Serial interface. 
+ - Contains "LED Game" example
+
+## Help is needed!
+ - More creative examples.
+ - I/O with other interfaces - wifi, GSM, etc
